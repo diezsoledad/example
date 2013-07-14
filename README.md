@@ -1,5 +1,5 @@
 Sample
-=======
+------
 
 This is just a code sample.
 * Developed primarily using ExtJS, Spring and MyBatis.
